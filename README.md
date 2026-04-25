@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Hackathon-eSewa%20×%20WWF%202026-1a7f37?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQyIDAtOC0zLjU4LTgtOHMzLjU4LTggOC04IDggMy41OCA4IDgtMy41OCA4LTggOC00LjQyIDAtOHoiLz48L3N2Zz4=" alt="Hackathon Badge"/>
-  <img src="https://img.shields.io/badge/Challenge-12-ff6b35?style=for-the-badge" alt="Challenge 12"/>
-  <img src="https://img.shields.io/badge/Status-Live%20Demo%20Ready-22d3ee?style=for-the-badge" alt="Status"/>
-</p>
+
 
 <h1 align="center">🐘 Wildlife Early Warning System</h1>
 
@@ -344,22 +340,3 @@ wildlife-ews/
 - 🌐 **Scalable Architecture** — Designed to scale from a single park to Nepal's entire protected area network
 - 🤝 **Community Engagement** — Empower local communities as active participants in conservation
 
-### Alignment with WWF Nepal's Mission
-
-This project directly supports **WWF Nepal's human–wildlife conflict mitigation program** and aligns with Nepal's commitment to the **Global Tiger Initiative** and **CITES** wildlife protection frameworks.
-
----
-
-## 👥 Team
-
-Built with ❤️ for the **eSewa × WWF Hackathon 2026**
-
----
-
-<p align="center">
-  <strong>🐘 Protecting wildlife. Empowering communities. One alert at a time.</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20in-Nepal%20🇳🇵-dc143c?style=for-the-badge" alt="Made in Nepal"/>
-</p>
