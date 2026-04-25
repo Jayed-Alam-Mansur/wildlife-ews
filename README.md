@@ -10,9 +10,6 @@
   <strong>Real-time wildlife detection and alert system to reduce human–wildlife conflict in Nepal</strong>
 </p>
 
-<p align="center">
-  <em>Built for the eSewa × WWF Hackathon 2026 — Challenge 12: Wildlife Monitoring & Conservation</em>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
